@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="108680703501647" >
+
+    <task
+        name="javac"
+        duration="71" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="23" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/Users/apaul5/Downloads/android-rest-client-template-master/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+        type="DEX" />
+
+    <build timestamp="108314336703335" >
+        <artifact
+            location="/Users/apaul5/Downloads/android-rest-client-template-master/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="108680703501647" >
+        <artifact
+            location="/Users/apaul5/Downloads/android-rest-client-template-master/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

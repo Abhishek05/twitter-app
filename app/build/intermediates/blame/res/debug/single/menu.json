@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/apaul5/Downloads/android-rest-client-template-master/app/build/intermediates/res/merged/debug/menu/timeline.xml",
+        "source": "/Users/apaul5/Downloads/android-rest-client-template-master/app/src/main/res/menu/timeline.xml"
+    },
+    {
+        "merged": "/Users/apaul5/Downloads/android-rest-client-template-master/app/build/intermediates/res/merged/debug/menu/login.xml",
+        "source": "/Users/apaul5/Downloads/android-rest-client-template-master/app/src/main/res/menu/login.xml"
+    }
+]
